@@ -1,5 +1,5 @@
 # Vitalis.ai
-Most overengineered AI health app to exist
+Most overengineered AI health app to exist for a personal goal
 
 
 Architecture of this project thought out so far
