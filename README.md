@@ -3,6 +3,7 @@ Most overengineered AI health app to exist for a personal goal
 
 
 Architecture of this project thought out so far
+*No react native
 
 
 Go for backend
