@@ -7,6 +7,7 @@ Architecture of this project thought out so far
 
 
 Go for backend
+CDN and KONG API
 
 
 
